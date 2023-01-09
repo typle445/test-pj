@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@300;400;500;700&display=swap");
+$font-family-sans-serif: "Epilogue", sans-serif;
+$navbar-link-color: hsl(0, 0%, 41%);
+$navbar-nav-link-padding-x: 1.5rem;
+$btn-padding-x: 1rem;
+$body-bg: #edede9;
+$navbar-light-hover-color: #000000;
+
+$primary: hsl(0, 0%, 8%);
+@import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.menu-icon {
+  font-size: 2rem;
+}
